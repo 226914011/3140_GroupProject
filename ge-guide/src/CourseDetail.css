@@ -1,0 +1,47 @@
+.courseDetail{
+    overflow:hidden;
+    width:100%;
+}
+.bread{
+    margin-left:2%;
+    margin-top: 10px;
+}
+
+.bread a,Link{
+
+    font-size: 20px;
+    text-decoration: none;
+    color: #000000;
+}
+.bread span{
+    font-size: 20px;
+}
+
+.course{
+    background: #fffbd5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b20a2c, #fffbd5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b20a2c, #fffbd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.leftBar{
+    margin-top: 120px;
+    margin-left: 20%;
+    margin-bottom: 2%;
+    border:2px solid;
+    background-color: transparent;
+border-radius:20px;
+}
+.leftBar Div{
+    background-color: transparent;
+}
+
+.title{
+    font-size: xx-large;
+}
+.header{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 4%;
+}

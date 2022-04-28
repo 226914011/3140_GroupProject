@@ -1,0 +1,13 @@
+
+.image-column {
+  flex-basis: 50%;
+  position: relative;
+  z-index: 0;
+  /* display: flex;
+  justify-content: center; */
+
+}
+
+.image-column-content img {
+  width: 80%;
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+
+.background-image{
+    z-index:-5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url("./img/banner.png");
+    filter: opacity(95%) grayscale(40%);;
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+
+.searchbar_header p{
+    -webkit-text-stroke: 0.5px black;
+    margin-top: calc(20% - 20px);
+    text-align:center;
+    color: azure;
+    font-size: xx-large;
+    font-family: 'Noto Sans TC', sans-serif;
+}

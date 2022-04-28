@@ -1,0 +1,739 @@
+{
+  "Comments": [
+    {
+      "subjectCode": "BHMH1021",
+      "id": 1,
+      "userID": null,
+      "lecturerID": "Ken Tseng",
+      "courseRate": 5,
+      "lecturerRate": 4,
+      "workloadRate": 5,
+      "lecturerContent": "Lectuer教書有心，上堂生動有趣",
+      "courseContent": "呢個課程好簡單，Workload唔多，學嘅好實用，強烈推薦",
+      "teachingTerm": "21-22 Sem 2",
+      "createdTime": "2022 - 04 - 15 T18: 25: 43.511 Z",
+      "lastUpdateTime": "2022 - 04 - 15 T19: 25: 43.511 Z",
+      "grade": "A",
+      "score": {
+        "weightCA": 50,
+        "componentCA": {
+          "Individual Assignment 1": {
+            "weight": 10,
+            "score": "A"
+          },
+          "Group Project": {
+            "weight": 40,
+            "score": "A+"
+          },
+          "Individual Assignment 2": {
+            "weight": 20,
+            "score": "A"
+          },
+          "Mid-Term Test": {
+            "weight": 30,
+            "score": 50
+          }
+        },
+        "resultExam": 80
+      }
+    },
+    {
+      "subjectCode": "BHMH1021",
+      "id": 2,
+      "userID": null,
+      "teachingTerm": "21-22 Sem 2",
+      "createdTime": "2022 - 04 - 14 T18: 30: 43.541 Z",
+      "lastUpdateTime": "2022 - 04 - 14 T18: 30: 43.541 Z",
+      "grade": "A-",
+      "score": {
+        "weightCA": 50,
+        "componentCA": {
+          "Individual Assignment 1": {
+            "weight": 10,
+            "score": "A"
+          },
+          "Group Project": {
+            "weight": 40,
+            "score": "A+"
+          },
+          "Individual Assignment 2": {
+            "weight": 20,
+            "score": "B+"
+          },
+          "Mid-Term Test": {
+            "weight": 30,
+            "score": 68
+          }
+        },
+        "resultExam": 74
+      }
+    },
+    {
+      "subjectCode": "BHMH1021",
+      "id": 3,
+      "userID": null,
+      "lecturerID": "Joe LIN",
+      "courseRate": 3,
+      "lecturerRate": 3,
+      "workloadRate": 3,
+      "lecturerContent": "Lectuer講書唔係太吸引 但係d point講得清楚",
+      "courseContent": "呢個課程Workload一般，實用性都係一般，可以選擇",
+      "teachingTerm": "21-22 Sem 2",
+      "createdTime": "2022 - 04 - 15 T18: 25: 43.511 Z",
+      "lastUpdateTime": "2022 - 04 - 15 T19: 25: 43.511 Z",
+      "grade": "A"
+    },
+    {
+      "subjectCode": "BHMH1021",
+      "id": "993e89d8-b787-4e5b-9a1e-cb835bf9353c",
+      "userID": null,
+      "lecturerID": "Patrick Ng",
+      "courseRate": "3",
+      "workloadRate": "4",
+      "lecturerRate": "1",
+      "lecturerContent": "唔好reg呢位\n強烈建議去隔離Kelvin Tang",
+      "courseContent": "主要講Macro Econ\n可以考慮\nExam比重好高 小心d\n加油",
+      "teachingTerm": "21-22 Sem 2",
+      "createdTime": "2022-04-21T07:57:23.934Z",
+      "lastUpdatedTime": "2022-04-21T07:57:23.934Z",
+      "score": {
+        "grade": "A+"
+      }
+    }
+  ],
+  "Lecturers": [
+    {
+      "LecturerID": 1,
+      "Name": "Joe Lin",
+      "Email": "123@456.com",
+      "Link": "Tester"
+    },
+    {
+      "LecturerID": 2,
+      "Name": "Ken Tseng",
+      "Email": "123@456.com",
+      "Link": ""
+    },
+    {
+      "LecturerID": 3,
+      "Name": "Pat Chan",
+      "Email": "123@456.com",
+      "Link": "Hardworking"
+    },
+    {
+      "LecturerID": 4,
+      "Name": "Bob Liu",
+      "Email": "123@456.com",
+      "Link": "YOLO"
+    }
+  ],
+  "CourseDetails": [
+    {
+      "subjectCode": "BHMH1021",
+      "subjectName": "Personal Financial Planning",
+      "credit": "3",
+      "type": "B",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH1021%20Personal%20Financial%20Planning.pdf"
+    },
+    {
+      "subjectCode": "BHMH1041",
+      "subjectName": "Accounting for Non-Business Students",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH1041%20Accounting%20for%20Non-Business%20Students.pdf"
+    },
+    {
+      "subjectCode": "BHMH1042",
+      "subjectName": "Economics and Society (for Non-Business Students)",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH1042%20Economics%20and%20Society%20(for%20Non-Business%20Students).pdf"
+    },
+    {
+      "subjectCode": "BHMH2001",
+      "subjectName": "Introduction to Chinese Political and Legal System",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2001%20Introduction%20to%20Chinese%20Political%20and%20Legal%20System.pdf"
+    },
+    {
+      "subjectCode": "BHMH2002",
+      "subjectName": "Introduction to Economics",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2002%20Introduction%20to%20Economics.pdf"
+    },
+    {
+      "subjectCode": "BHMH2003",
+      "subjectName": "Introduction to Marketing",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2003%20Introduction%20to%20Marketing.pdf"
+    },
+    {
+      "subjectCode": "BHMH2004",
+      "subjectName": "Managing Organisations",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2004%20Managing%20Organisations.pdf"
+    },
+    {
+      "subjectCode": "BHMH2005",
+      "subjectName": "Organisational Behaviour",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2005%20Organisational%20Behaviour.pdf"
+    },
+    {
+      "subjectCode": "BHMH2006",
+      "subjectName": "Understanding Globalisation",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2006%20Understanding%20Globalisation.pdf"
+    },
+    {
+      "subjectCode": "BHMH2053",
+      "subjectName": "Chinese Management Wisdom",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2053%20Chinese%20Management%20Wisdom.pdf"
+    },
+    {
+      "subjectCode": "BHMH2103",
+      "subjectName": "Advertising and Promotion",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2103%20Advertising%20and%20Promotion.pdf"
+    },
+    {
+      "subjectCode": "BHMH2110",
+      "subjectName": "Consumer Behaviour",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2110%20Consumer%20Behaviour.pdf"
+    },
+    {
+      "subjectCode": "BHMH2160",
+      "subjectName": "Negotiation Skills",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2160%20Negotiation%20Skills.pdf"
+    },
+    {
+      "subjectCode": "BHMH2318",
+      "subjectName": "Corporate Event Operations",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/dobhm/SDF/HKCC/BHMH2318%20Corporate%20Event%20Operations.pdf"
+    },
+    {
+      "subjectCode": "LCH1001",
+      "subjectName": "Elementary Chinese",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1001%20Elementary%20Chinese.pdf"
+    },
+    {
+      "subjectCode": "LCH1011",
+      "subjectName": "Elementary French",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1011%20Elementary%20French.pdf"
+    },
+    {
+      "subjectCode": "LCH1019",
+      "subjectName": "Japanese I",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1019%20Japanese%20I.pdf"
+    },
+    {
+      "subjectCode": "LCH1029",
+      "subjectName": "English for Academic Studies (Humanities and Communication) I",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1029%20English%20for%20Academic%20Studies%20(Humanities%20and%20Communication)%20I.pdf"
+    },
+    {
+      "subjectCode": "LCH1030",
+      "subjectName": "English for Academic Studies (Humanities and Communication) II",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1030%20English%20for%20Academic%20Studies%20(Humanities%20and%20Communication)%20II.pdf"
+    },
+    {
+      "subjectCode": "LCH1054",
+      "subjectName": "Putonghua for Cultural and Communication Purposes",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1054%20Putonghua%20for%20Cultural%20and%20Communication%20Purposes.pdf"
+    },
+    {
+      "subjectCode": "LCH1058",
+      "subjectName": "Academic English (Humanities and Communication) I",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1058%20Academic%20English%20(Humanities%20and%20Communication)%20I.pdf"
+    },
+    {
+      "subjectCode": "LCH1059",
+      "subjectName": "Academic English (Humanities and Communication) II",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1059%20Academic%20English%20(Humanities%20and%20Communication)%20II.pdf"
+    },
+    {
+      "subjectCode": "LCH1104",
+      "subjectName": "Principles of Corporate Communication I",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1104%20Principles%20of%20Corporate%20Communication%20I.pdf"
+    },
+    {
+      "subjectCode": "LCH1105",
+      "subjectName": "Chinese Communication for College Students (Cantonese Version)",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1105%20Chinese%20Communication%20for%20College%20Students%20(Cantonese%20Version).pdf"
+    },
+    {
+      "subjectCode": "LCH1106",
+      "subjectName": "Chinese Communication for College Students (Putonghua Version)",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1106%20Chinese%20Communication%20for%20College%20Students%20(Putonghua%20Version).pdf"
+    },
+    {
+      "subjectCode": "LCH1109",
+      "subjectName": "Preparing for IELTS",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH1109%20Preparing%20for%20IELTS.pdf"
+    },
+    {
+      "subjectCode": "LCH2007",
+      "subjectName": "Business Putonghua",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2007%20Business%20Putonghua.pdf"
+    },
+    {
+      "subjectCode": "LCH2009",
+      "subjectName": "Chinese for Academic Purposes",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2009%20Chinese%20for%20Academic%20Purposes.pdf"
+    },
+    {
+      "subjectCode": "LCH2010",
+      "subjectName": "English for Workplace Communication",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2010%20English%20for%20Workplace%20Communication.pdf"
+    },
+    {
+      "subjectCode": "LCH2016",
+      "subjectName": "Grammar in Context",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2016%20Grammar%20in%20Context.pdf"
+    },
+    {
+      "subjectCode": "LCH2018",
+      "subjectName": "Introduction to Chinese Literature",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2018%20Introduction%20to%20Chinese%20Literature.pdf"
+    },
+    {
+      "subjectCode": "LCH2019",
+      "subjectName": "Introduction to Communication Studies",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2019%20Introduction%20to%20Communication%20Studies.pdf"
+    },
+    {
+      "subjectCode": "LCH2022",
+      "subjectName": "Japanese II",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2022%20Japanese%20II.pdf"
+    },
+    {
+      "subjectCode": "LCH2027",
+      "subjectName": "Oral Communication in English",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2027%20Oral%20Communication%20in%20English.pdf"
+    },
+    {
+      "subjectCode": "LCH2166",
+      "subjectName": "Analysis of English Grammar",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2166%20Analysis%20of%20English%20Grammar.pdf"
+    },
+    {
+      "subjectCode": "LCH2167",
+      "subjectName": "Bilingual Communication",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2167%20Bilingual%20Communication.pdf"
+    },
+    {
+      "subjectCode": "LCH2168",
+      "subjectName": "Chinese for Business and Administration",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2168%20Chinese%20for%20Business%20and%20Administration.pdf"
+    },
+    {
+      "subjectCode": "LCH2169",
+      "subjectName": "Chinese for the Mass Media",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2169%20Chinese%20for%20the%20Mass%20Media.pdf"
+    },
+    {
+      "subjectCode": "LCH2170",
+      "subjectName": "Contrastive Language Studies of English and Chinese",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2170%20Contrastive%20Language%20Studies%20of%20English%20and%20Chinese.pdf"
+    },
+    {
+      "subjectCode": "LCH2171",
+      "subjectName": "English for the Mass Media",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2171%20English%20for%20the%20Mass%20Media.pdf"
+    },
+    {
+      "subjectCode": "LCH2172",
+      "subjectName": "Foundations of Linguistics",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2172%20Foundations%20of%20Linguistics.pdf"
+    },
+    {
+      "subjectCode": "LCH2173",
+      "subjectName": "Foundations of Oral Interpretation",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2173%20Foundations%20of%20Oral%20Interpretation.pdf"
+    },
+    {
+      "subjectCode": "LCH2174",
+      "subjectName": "Foundations of Translation",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2174%20Foundations%20of%20Translation.pdf"
+    },
+    {
+      "subjectCode": "LCH2175",
+      "subjectName": "Introduction to Phonetics",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2175%20Introduction%20to%20Phonetics.pdf"
+    },
+    {
+      "subjectCode": "LCH2176",
+      "subjectName": "Language and Society",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2176%20Language%20and%20Society.pdf"
+    },
+    {
+      "subjectCode": "LCH2177",
+      "subjectName": "Languages, Cultures and Communication",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2177%20Languages,%20Cultures%20and%20Communication.pdf"
+    },
+    {
+      "subjectCode": "LCH2178",
+      "subjectName": "Media Translation",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2178%20Media%20Translation.pdf"
+    },
+    {
+      "subjectCode": "LCH2180",
+      "subjectName": "Practical Translation (Business and Financial Documents)",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2180%20Practical%20Translation%20(Business%20and%20Financial%20Documents).pdf"
+    },
+    {
+      "subjectCode": "LCH2181",
+      "subjectName": "Principles of Corporate Communication II",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2181%20Principles%20of%20Corporate%20Communication%20II.pdf"
+    },
+    {
+      "subjectCode": "LCH2183",
+      "subjectName": "Public Relations Writing",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2183%20Public%20Relations%20Writing.pdf"
+    },
+    {
+      "subjectCode": "LCH2184",
+      "subjectName": "The Structure of Modern Chinese",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2184%20The%20Structure%20of%20Modern%20Chinese.pdf"
+    },
+    {
+      "subjectCode": "LCH2185",
+      "subjectName": "Theory and Practice of Translation",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2185%20Theory%20and%20Practice%20of%20Translation.pdf"
+    },
+    {
+      "subjectCode": "LCH2186",
+      "subjectName": "Translation for Practical Purposes",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2186%20Translation%20for%20Practical%20Purposes.pdf"
+    },
+    {
+      "subjectCode": "LCH2202",
+      "subjectName": "Chinese Film and Fiction",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2202%20Chinese%20Film%20and%20Fiction.pdf"
+    },
+    {
+      "subjectCode": "LCH2203",
+      "subjectName": "Classical Chinese Fiction",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2203%20Classical%20Chinese%20Fiction.pdf"
+    },
+    {
+      "subjectCode": "LCH2205",
+      "subjectName": "Culture and Translation",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2205%20Culture%20and%20Translation.pdf"
+    },
+    {
+      "subjectCode": "LCH2207",
+      "subjectName": "Intercultural Communication in Business",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2207%20Intercultural%20Communication%20in%20Business.pdf"
+    },
+    {
+      "subjectCode": "LCH2208",
+      "subjectName": "Japanese III",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2208%20Japanese%20III.pdf"
+    },
+    {
+      "subjectCode": "LCH2209",
+      "subjectName": "Japanese IV",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2209%20Japanese%20IV.pdf"
+    },
+    {
+      "subjectCode": "LCH2211",
+      "subjectName": "Practical Translation (Public Administration and Legal Documents)",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2211%20Practical%20Translation%20(Public%20Administration%20and%20Legal%20Documents).pdf"
+    },
+    {
+      "subjectCode": "LCH2212",
+      "subjectName": "Selected Readings of Hong Kong Fiction",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2212%20Selected%20Readings%20of%20Hong%20Kong%20Fiction.pdf"
+    },
+    {
+      "subjectCode": "LCH2282",
+      "subjectName": "Chinese Creative Writing",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2282%20Chinese%20Creative%20Writing.pdf"
+    },
+    {
+      "subjectCode": "LCH2304",
+      "subjectName": "Introduction to Literature in English",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2304%20Introduction%20to%20Literature%20in%20English.pdf"
+    },
+    {
+      "subjectCode": "LCH2319",
+      "subjectName": "Introduction to Modern Chinese Literature",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2319%20Introduction%20to%20Modern%20Chinese%20Literature.pdf"
+    },
+    {
+      "subjectCode": "LCH2323",
+      "subjectName": "Cantonese Studies and Application",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2323%20Cantonese%20Studies%20and%20Application.pdf"
+    },
+    {
+      "subjectCode": "LCH2324",
+      "subjectName": "Introduction to Classical Chinese Literature",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2324%20Introduction%20to%20Classical%20Chinese%20Literature.pdf"
+    },
+    {
+      "subjectCode": "LCH2325",
+      "subjectName": "Selected Readings of Classical and Modern Chinese Prose",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2325%20Selected%20Readings%20of%20Classical%20and%20Modern%20Chinese%20Prose.pdf"
+    },
+    {
+      "subjectCode": "LCH2326",
+      "subjectName": "English Communication in Creative and Cultural Industries",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2326%20English%20Communication%20in%20Creative%20and%20Cultural%20Industries.pdf"
+    },
+    {
+      "subjectCode": "LCH2327",
+      "subjectName": "Oral English for the Professions",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2327%20Oral%20English%20for%20the%20Professions.pdf"
+    },
+    {
+      "subjectCode": "LCH2328",
+      "subjectName": "Professional English Writing",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2328%20Professional%20English%20Writing.pdf"
+    },
+    {
+      "subjectCode": "LCH2329",
+      "subjectName": "Classical Chinese Poetry",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2329%20Classical%20Chinese%20Poetry.pdf"
+    },
+    {
+      "subjectCode": "LCH2332",
+      "subjectName": "Developing Interpretation Skills",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2332%20Developing%20Interpretation%20Skills.pdf"
+    },
+    {
+      "subjectCode": "LCH2335",
+      "subjectName": "Workplace Practicum",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdlc/SDF/LC/HKCC/LCH2335%20Workplace%20Practicum.pdf"
+    },
+    {
+      "subjectCode": "SEHH1012",
+      "subjectName": "Foundation of Traditional Chinese Medicine",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH1012%20Foundation%20of%20Traditional%20Chinese%20Medicine.pdf"
+    },
+    {
+      "subjectCode": "SEHH1015",
+      "subjectName": "Healthy Living and Common Health Problems",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH1015%20Healthy%20Living%20and%20Common%20Health%20Problems.pdf"
+    },
+    {
+      "subjectCode": "SEHH1016",
+      "subjectName": "Introduction to Internet Technology",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH1016%20Introduction%20to%20Internet%20Technology.pdf"
+    },
+    {
+      "subjectCode": "SEHH1028",
+      "subjectName": "Elementary Statistics",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH1028%20Elementary%20Statistics.pdf"
+    },
+    {
+      "subjectCode": "SEHH1031",
+      "subjectName": "Information Technology for Language Studies",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH1031%20Information%20Technology%20for%20Language%20Studies.pdf"
+    },
+    {
+      "subjectCode": "SEHH2008",
+      "subjectName": "Chemistry and Modern Living",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH2008%20Chemistry%20and%20Modern%20Living.pdf"
+    },
+    {
+      "subjectCode": "SEHH2011",
+      "subjectName": "Environmental Science",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH2011%20Environmental%20Science.pdf"
+    },
+    {
+      "subjectCode": "SEHH2014",
+      "subjectName": "Food Hygiene and Nutritional Health",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH2014%20Food%20Hygiene%20and%20Nutritional%20Health.pdf"
+    },
+    {
+      "subjectCode": "SEHH2023",
+      "subjectName": "Light, Man and Environment",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH2023%20Light,%20Man%20and%20Environment.pdf"
+    },
+    {
+      "subjectCode": "SEHH2028",
+      "subjectName": "Products and Materials in Modern Society",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH2028%20Products%20and%20Materials%20in%20Modern%20Society.pdf"
+    },
+    {
+      "subjectCode": "SEHH2031",
+      "subjectName": "Statistics",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH2031%20Statistics.pdf"
+    },
+    {
+      "subjectCode": "SEHH2045",
+      "subjectName": "Healthy Ageing",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH2045%20Healthy%20Ageing.pdf"
+    },
+    {
+      "subjectCode": "SEHH2057",
+      "subjectName": "Health and Fitness Theory and Practice",
+      "SDFUrl": "http://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH2057%20Health%20and%20Fitness%20Theory%20and%20Practice.pdf"
+    },
+    {
+      "subjectCode": "SEHH2375",
+      "subjectName": "Introduction to Health Care for the Elderly",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHH/SEHH2375%20Introduction%20to%20Health%20Care%20for%20the%20Elderly.pdf"
+    },
+    {
+      "subjectCode": "SHDH1004",
+      "subjectName": "Creative and Critical Thinking",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH1004%20Creative%20and%20Critical%20Thinking.pdf"
+    },
+    {
+      "subjectCode": "SHDH1014",
+      "subjectName": "Fundamental Visualisation Skills",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH1014%20Fundamental%20Visualisation%20Skills.pdf"
+    },
+    {
+      "subjectCode": "SHDH1017",
+      "subjectName": "Introduction to Psychology",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH1017%20Introduction%20to%20Psychology.pdf"
+    },
+    {
+      "subjectCode": "SHDH1018",
+      "subjectName": "Introduction to Sociology",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH1018%20Introduction%20to%20Sociology.pdf"
+    },
+    {
+      "subjectCode": "SHDH1022",
+      "subjectName": "Personal Growth and Development",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH1022%20Personal%20Growth%20and%20Development.pdf"
+    },
+    {
+      "subjectCode": "SHDH1025",
+      "subjectName": "The History and Culture of Hong Kong",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH1025%20The%20History%20and%20Culture%20of%20Hong%20Kong.pdf"
+    },
+    {
+      "subjectCode": "SHDH2012",
+      "subjectName": "Experiencing Architecture",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2012%20Experiencing%20Architecture.pdf"
+    },
+    {
+      "subjectCode": "SHDH2013",
+      "subjectName": "Exploring Human Nature",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2013%20Exploring%20Human%20Nature.pdf"
+    },
+    {
+      "subjectCode": "SHDH2015",
+      "subjectName": "Gender Issues",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2015%20Gender%20Issues.pdf"
+    },
+    {
+      "subjectCode": "SHDH2017",
+      "subjectName": "Introduction to Chinese Culture",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2017%20Introduction%20to%20Chinese%20Culture.pdf"
+    },
+    {
+      "subjectCode": "SHDH2020",
+      "subjectName": "Introduction to Philosophy",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2020%20Introduction%20to%20Philosophy.pdf"
+    },
+    {
+      "subjectCode": "SHDH2021",
+      "subjectName": "Introduction to Political Science",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2021%20Introduction%20to%20Political%20Science.pdf"
+    },
+    {
+      "subjectCode": "SHDH2024",
+      "subjectName": "Logic and Reasoning",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2024%20Logic%20and%20Reasoning.pdf"
+    },
+    {
+      "subjectCode": "SHDH2025",
+      "subjectName": "Love Intimacy and Identity",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2025%20Love%20Intimacy%20and%20Identity.pdf"
+    },
+    {
+      "subjectCode": "SHDH2026",
+      "subjectName": "Mass Media and Culture",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2026%20Mass%20Media%20and%20Culture.pdf"
+    },
+    {
+      "subjectCode": "SHDH2029",
+      "subjectName": "Professionals and the Society",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2029%20Professionals%20and%20the%20Society.pdf"
+    },
+    {
+      "subjectCode": "SHDH2030",
+      "subjectName": "Social Development in China",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2030%20Social%20Development%20in%20China.pdf"
+    },
+    {
+      "subjectCode": "SHDH2032",
+      "subjectName": "The History and Culture of East Asia",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2032%20The%20History%20and%20Culture%20of%20East%20Asia.pdf"
+    },
+    {
+      "subjectCode": "SHDH2035",
+      "subjectName": "Values and Ethics in Daily Life",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2035%20Values%20and%20Ethics%20in%20Daily%20Life.pdf"
+    },
+    {
+      "subjectCode": "SHDH2043",
+      "subjectName": "Digital Storytelling",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2043%20Digital%20Storytelling.pdf"
+    },
+    {
+      "subjectCode": "SHDH2044",
+      "subjectName": "Digital Visualisation in New Media",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2044%20Digital%20Visualisation%20in%20New%20Media.pdf"
+    },
+    {
+      "subjectCode": "SHDH2046",
+      "subjectName": "Music, Mind and Human Behaviour",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2046%20Music,%20Mind%20and%20Human%20Behaviour.pdf"
+    },
+    {
+      "subjectCode": "SHDH2047",
+      "subjectName": "Understanding Society through Visual Arts",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2047%20Understanding%20Society%20through%20Visual%20Arts.pdf"
+    },
+    {
+      "subjectCode": "SHDH2048",
+      "subjectName": "The History and Culture of Modern China",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2048%20The%20History%20and%20Culture%20of%20Modern%20China.pdf"
+    },
+    {
+      "subjectCode": "SHDH2049",
+      "subjectName": "Chinese and Western Cultures",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2049%20Chinese%20and%20Western%20Cultures.pdf"
+    },
+    {
+      "subjectCode": "SHDH2050",
+      "subjectName": "Creativity and Everyday Life",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2050%20Creativity%20and%20Everyday%20Life.pdf"
+    },
+    {
+      "subjectCode": "SHDH2051",
+      "subjectName": "Positive Psychology in Daily Life",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2051%20Positive%20Psychology%20in%20Daily%20Life.pdf"
+    },
+    {
+      "subjectCode": "SHDH2052",
+      "subjectName": "China in the Era of Globalisation",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2052%20China%20in%20the%20Era%20of%20Globalisation.pdf"
+    },
+    {
+      "subjectCode": "SHDH2055",
+      "subjectName": "Exploring Culture through Field Trip",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2055%20Exploring%20Culture%20through%20Field%20Trip.pdf"
+    },
+    {
+      "subjectCode": "SHDH2056",
+      "subjectName": "Exploring Life, Death and Human Relations in Traditional Chinese Thoughts",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2056%20Exploring%20Life,%20Death%20and%20Human%20Relations%20in%20Traditional%20Chinese%20Thoughts.pdf"
+    },
+    {
+      "subjectCode": "SHDH2201",
+      "subjectName": "Chinese Family and Culture",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2201%20Chinese%20Family%20and%20Culture.pdf"
+    },
+    {
+      "subjectCode": "SHDH2214",
+      "subjectName": "The Role of Chinese Women in Historical Development",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2214%20The%20Role%20of%20Chinese%20Women%20in%20Historical%20Development.pdf"
+    },
+    {
+      "subjectCode": "SHDH2216",
+      "subjectName": "Wisdom in Eastern Tradition",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2216%20Wisdom%20in%20Eastern%20Tradition.pdf"
+    },
+    {
+      "subjectCode": "SHDH2365",
+      "subjectName": "Chinas Foreign Relations Past and Present",
+      "SDFUrl": "https://staffweb.cpce-polyu.edu.hk/dosshd/SDF/SHDH/SHDH2365%20Chinas%20Foreign%20Relations%20Past%20and%20Present.pdf"
+    }
+  ]
+}

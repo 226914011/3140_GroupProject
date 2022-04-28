@@ -1,0 +1,17 @@
+.display-content {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 80px;
+  /* margin-bottom: 80px; */
+  /* background-color: white; */
+}
+
+/* @media screen and (max-width:891px) {
+  .display-content{
+    display: inline-block;
+    margin-bottom: 80px;
+    background-color: white;
+    flex-wrap:wrap;
+    flex-direction: row;
+  }
+} */

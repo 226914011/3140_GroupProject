@@ -1,0 +1,29 @@
+{
+    "subject": [
+        {
+            "id" : 0,
+            "SID" : "20165160A",
+            "SubjectRelease":"SEHH2241",
+            "LectureGroupRelease":"201",
+            "SubjectWanted":"SEHH1016",
+            "LectureGroupWanted":"101"
+        },
+        {
+            "id" : 1,
+            "SID" : "20010001A",
+            "SubjectRelease":"SEHH1016",
+            "LectureGroupRelease":"101",
+            "SubjectWanted":"SEHH2241",
+            "LectureGroupWanted":"201"
+        },
+        {
+            "id" : 2,
+            "SID" : "20010001A",
+            "SubjectRelease": "SEHH3326",
+            "LectureGroupRelease": "101",
+            "SubjectWanted": "LCH1047",
+            "LectureGroupWanted": "102"
+        }
+    ]
+
+}

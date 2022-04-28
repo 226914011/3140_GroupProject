@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body{
+  font-family: "Microsoft JhengHei UI","微軟正黑體", "Roboto",sans-serif;
+}
+
+.content-container {
+  padding-bottom: 80px;
+  max-width: 1030px;
+  margin: 0 auto;
+
+}
+
+
+
+#page-intro-content {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #F0F0F0;
+
+}
+
+.home-page-container {
+  z-index: 2;
+}

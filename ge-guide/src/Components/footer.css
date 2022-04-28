@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-container h5{
+    font-family: "Microsoft JhengHei UI","微軟正黑體 UI", "Roboto",sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    color: white;
+}
+
+footer {
+    height: 144px;
+    padding: 20px 0;
+    background-color: #B85661;
+}
+
+.footer-container {
+    margin: auto;
+    max-width: 1200px;
+}

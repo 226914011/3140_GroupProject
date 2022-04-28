@@ -1,0 +1,260 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    font-family: "Microsoft JhengHei UI","微軟正黑體", "Roboto",sans-serif;
+}
+
+
+/* Navigation */
+/* .nav-container {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+    height: 100px;
+
+}
+
+.wrapper {
+    here set max-width is 1000 px is tuned by the diff. of figma frame size and 720p mon size (orginal is 1294px)
+    max-width: 1100px;
+    margin: 0 auto;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+}
+
+nav ul {
+    display: flex;
+}
+
+.nav-items li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+.nav-items li a {
+    font-family: "Microsoft JhengHei UI","微軟正黑體", "Roboto",sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    text-decoration: none;
+
+    color: #000000;
+}
+
+.logo img {
+    width: 80%;
+}
+ */
+
+/* for content */
+
+.wrapper-content {
+    /* here set max-width is 1000 px is tuned by the diff. of figma frame size and 720p mon size (orginal is 1294px)*/
+    max-width: 1030px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+#content-layout {
+    /* display: inline-block;
+
+    vertical-align: top; */
+
+    display: flex;
+    justify-content: center;
+}
+
+
+#semster-gpa-container, #target-gpa-container {
+    /* display: inline-block;
+    *display: inline;
+    zoom: 1;  */
+    vertical-align: top; 
+    margin: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* for gpa form content */
+
+.gpa-box {
+    margin-top: 20px;
+    padding: 25px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+    width: 430px;
+    display: inline-block;
+    position: relative;
+}
+
+/* #sem-gpa-box {
+    padding: 25px;
+} */
+
+#target-gpa-box {
+    height: 418px;
+    /* padding: 45px; */
+}
+
+
+.tar-column{
+    justify-content: right;
+}
+
+.button-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-list {
+    margin-top: 20px;
+}
+
+.tar-cal-button-area {
+    display: flex;
+    justify-content: right;
+    position: absolute;
+    bottom: 25px;
+    right: 25px;
+}
+
+
+.button-list li {
+    list-style: none;
+}
+
+
+/* button style */
+.red-button, .white-button {
+    width: 180px;
+    height: 40px;
+    font-family: "Microsoft JhengHei UI","微軟正黑體", "Roboto",sans-serif;
+    font-size: 20px;
+    border-radius: 2px;
+}
+
+.red-button {
+    background-color: #C4606B;
+    color: #FFFFFF;
+    border: none;
+}
+
+.white-button {
+    color: #C4606B;
+    border: 1px solid #C4606B;
+    background-color: white;
+}
+
+.white-button:hover {
+    background-color: #f5f5f5e0;
+}
+
+.red-button:hover {
+    background-color: #b34854;
+}
+
+.tar-column, .grade-column, .cred-column {
+    font-size: 22px;
+}
+
+.cred-column {
+    width: 60%;
+}
+
+.grade-column {
+    width: 50%;
+}
+
+.tar-column {
+    width: 70%;
+}
+
+#gpa-cal-table td{
+    text-align: center;
+}
+
+.input-table th,.input-table td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.input-table tbody, .input-table thead {
+    font-size: 22px;
+}
+/* 
+table, th, td {
+    border: 1px solid;
+} */
+
+#cal-button {
+    float: right;
+}
+/* 
+.gpa-cal-container {
+    height: 80vh;
+} */
+
+@media screen and (max-width:937px) {
+    #content-layout {
+        display: inline-block;
+        vertical-align: middle;
+        justify-content: none;
+    }
+}
+
+
+@media screen and (max-width:460px) {
+    .gpa-box {
+        padding: 20px;
+        width: 95%;
+        display: inline-block;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%);
+    }
+
+    #semster-gpa-container h2, #target-gpa-container h2 {
+        text-align: center;
+    }
+
+    .button-list {
+        display: inline-block;
+        justify-content: center;
+    }
+
+    .button-list li {
+        padding: 10px;
+    }
+
+    .button-list-wrapper {
+        display: flex;
+        position: relative;
+        justify-content: center;
+    }
+
+    input {
+        border: 1px solid #4f4f4f;
+    }
+}
+
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+input[type=number] {
+-moz-appearance: textfield;
+}
+
+.input-row {
+    text-align: center;
+}

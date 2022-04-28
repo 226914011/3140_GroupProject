@@ -1,0 +1,90 @@
+textarea {
+    resize: none;
+  }
+
+.comment-Box {
+  margin-top: 20px;
+  padding: 40px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  width: 480px;
+  display: inline-block;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* text-align: center; */
+}
+  
+.red-button {
+    background-color: #C4606B;
+    color: #FFFFFF;
+    width: 80%;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+}
+
+.red-button:hover {
+  background-color: #b34854;
+}
+
+.return-showing a, .back-to-ds-ge, .return-showing{
+  /* font-family: "Microsoft JhengHei UI","微軟正黑體", "Roboto",sans-serif;
+  font-style: normal; */
+  margin-top: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #000000;
+}
+
+.return-showing {
+  margin-top: 15px;
+  margin-left: 30px;
+}
+
+
+
+.comment-table{
+  width: 100%;
+}
+
+.comment-table td, .row {
+  padding-bottom: 15px;
+}
+
+.row {
+  padding-left: 2px;
+}
+
+.comment-table tbody{
+  width: 100%;
+}
+.comment-table input {
+  width: 80%;
+  margin-right: 15px;
+}
+/* .comment-Box tr td {
+  border: 1px solid #000000;
+} */
+
+.text-area {
+  width: 100%;
+}
+
+.col-1 {
+  width: 30%;
+}
+
+.col-2 {
+  width: 70%;
+}
+
+.button-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.ignore-td span{
+  font-size: 15px;
+}
