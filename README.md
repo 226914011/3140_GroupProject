@@ -1,6 +1,7 @@
 # 3140_GroupProject
 Programming Project - HKCC Info<br>
-* State: Closed and Archived<br>
+* State: Closed<br>
+* Setup: [Setup.md](https://github.com/226914011/3140_GroupProject/blob/main/Setup.md)
 * Final grading: NA
 
 ## Development Language
